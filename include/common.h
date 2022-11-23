@@ -1,5 +1,5 @@
-#ifndef NKCODE_COMMON_H
-#define NKCODE_COMMON_H
+#ifndef TEMPLATE_COMMON_H
+#define TEMPLATE_COMMON_H
 
 #include <stdint.h>     //Includes integers with sepcified widths.
 #include <stdbool.h>    //Includes boolean types and values.
